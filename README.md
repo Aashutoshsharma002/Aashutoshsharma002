@@ -15,4 +15,6 @@
 
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Aashutoshsharma002&show_icons=true&theme=synthwave" alt="Aashutoshsharma002" /> </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashutoshsharma002)](https://github.com/Aashutoshsharma002/github-readme-stats)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aashutoshsharma002&show_icons=true&theme=synthwave" alt="Aashutoshsharma002" /> </p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashutoshsharma002)](https://github.com/Aashutoshsharma002/github-readme-stats)</p>
+ -->
